@@ -1,4 +1,4 @@
-CNN卷積神經網路
+CNN卷積神經網路（請先下載資料集壓縮檔並在WORK_2資料夾中解壓縮 https://www.kaggle.com/alxmamaev/flowers-recognition）
 
 
 ※程式流程：
